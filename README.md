@@ -8,7 +8,7 @@ javascript와 node.js를 이용하여 웹어플리케이션을 만드는 학습
 
 ***
 
-### 1. node.js 설치
+## 1. node.js 설치
 - <https://nodejs.org/>
 ### 2. Atom
 - <https://atom.io/>
